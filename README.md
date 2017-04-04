@@ -1,5 +1,5 @@
 # package.json
-package.json文件里面参数详解（搬运 深入浅出的node.js 过来的）
+package.json文件里面参数详解（主要是搬运<<深入浅出的node.js>> 过来的）
 
 
 > 就参数的中文详解吧，入门的时候总有些参数没弄清楚
@@ -8,7 +8,7 @@ package.json文件里面参数详解（搬运 深入浅出的node.js 过来的�
 
 > 平时自己用就用到name、version、dependencies、devDenpendencies、main、scripts
 
->git:https://github.com/Maxxxz/package.json
+> git:https://github.com/Maxxxz/package.json
 
 ```
 {
